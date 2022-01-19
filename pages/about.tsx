@@ -33,7 +33,12 @@ const AboutPage = () => {
         <br />
         <p className="mt-3">
           Code for the frontend can be found{" "}
-          <a className="text-blue-500" href="" target="_blank">
+          <a
+            className="text-blue-500"
+            href="https://github.com/ironsoul0/banking-frontend"
+            target="_blank"
+            rel="noreferrer"
+          >
             here
           </a>
           .
