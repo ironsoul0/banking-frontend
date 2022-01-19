@@ -1,6 +1,5 @@
 import "react-toastify/dist/ReactToastify.css";
 
-import Footer from "components/footer";
 import Login from "components/login";
 import Main from "components/main";
 import jwtDecode from "jwt-decode";
